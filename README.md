@@ -1,4 +1,3 @@
-first_app
-=========
+# RoR Tutorial: First app
 
-RoR Tutorial First Application
+This is the first RoR app.
